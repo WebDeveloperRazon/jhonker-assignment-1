@@ -11,3 +11,49 @@ h1{
 #name{
     color :rgb(226, 45, 75);
 }
+.half-part{
+    width: 40%;
+    float: left;
+    margin-left:100px;
+    padding-left:10px ;
+}
+.half-part img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color:palevioletred ;
+    border : 1px solid gray ;
+    padding : 5px 30px ;
+    color: white;
+    border-radius:10px ;
+}
+.link-button:hover{
+    background-color:black ;
+}
+p{
+    text-align: justify;
+}
+.middle{
+   background-color :gray ;
+   box-sizing: content-box ;
+   
+  
+}
+.image-design{
+    width:30% ;
+    float:left ;
+    margin: 15px ;
+    padding: 5px ;
+   background-color: white ;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+section {
+    height : 500px ;
+    padding-bottom: 150px;
+}
+.middle .image-design img{
+   width :100% ;
+}
+
