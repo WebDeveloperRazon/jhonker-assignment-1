@@ -1,0 +1,13 @@
+body{
+    font-family: 'Roboto';
+}
+h1{
+    font-weight: bold;
+    font-size:30px ;
+}
+.name-highlight{
+    color: rgb(21, 21, 122);
+}
+#name{
+    color :rgb(226, 45, 75);
+}
